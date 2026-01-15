@@ -1,4 +1,4 @@
-lbry-libtorrent
+libtorrent==2.0.11
 flask==3.0.0
 flask-cors==4.0.0
 wget==3.2
