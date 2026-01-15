@@ -1,0 +1,5 @@
+lbry-libtorrent
+flask==3.0.0
+flask-cors==4.0.0
+wget==3.2
+torf==4.3.0
